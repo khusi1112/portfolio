@@ -1,0 +1,95 @@
+*{
+    margin: 0;
+}
+body{
+    font-family: "Open Sans", sans-serif;
+}
+.My-head{
+    background-color: #fff8F3;
+    background-image: url(images/header_bg.png),url(images/developer.png);
+    background-repeat: no-repeat;
+    background-position: bottom right,left;
+}
+.Pashapashi{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    padding-top: 50px;
+}
+.title-marry{
+    font-weight: 800;
+    font-size: 45px;
+}
+.primary-color{
+    color: #FD6E0A;
+}
+.sojakor{
+    display: flex;
+    align-items: center;
+    list-style: none;
+}
+ul li{
+    margin-right: 50px;
+}
+li a{
+    text-decoration: none;
+    color: #474747;
+}
+li button{
+    background-color: #FD6E0A;
+    border: none;
+    padding: 15px 30px;
+    color: white;
+    border-radius: 5px;
+    font-weight: 700;
+    font-size: 20px;
+}
+/*Hardy er kaj*/
+.Mary-hardy{
+    display: flex;
+    align-items: center;
+    padding: 40px 30px 0px 200px;
+}
+.semi {
+    font-size: 45px;
+    font-weight: 600;
+    padding-bottom: 0px;
+    color: #181818;
+}
+.bold {
+    margin: 5px 3px 20px 0px;
+    padding-top: 0px;
+    font-size: 85px;
+    font-weight: 700;
+}
+.tag {
+    font-size: 18px;
+    font-weight: 400;
+    color: #757575;
+}
+
+.khusi1 {
+    background-color: #FD6E0A;
+    color: white;
+    border: none;
+    padding: 15px 30px;
+    border: none;
+    border-radius: 5px;
+    margin-top: 30px;
+}
+.khusi2 {
+    margin-left: 13px;
+}
+.khusi3 {
+    color: #FD6E0A;
+    border: 1px solid #FD6E0A;
+    padding: 13px 24px;
+    background-color: white;
+    margin-left: 30px;
+    font-weight: 700;
+    font-size: 20px;
+    border-radius: 5px;
+}
+.khusi4 {
+    margin-left: 10px;
+}

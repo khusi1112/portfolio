@@ -1,0 +1,151 @@
+*{
+    margin: 0;
+}
+body{
+font-family: "Open Sans",sans-serif;
+}
+.my-head {
+   background-color: #FFF8F3;
+   background-image: url('images/header_bg.png'),url('images/developer.png');
+   background-repeat: no-repeat;
+   background-position: bottom right,left;
+}
+.mary-nav-bar{
+   display: flex;
+   align-items:center;
+   justify-content: space-around;
+   padding-top: 50px;
+}
+.sojakor{
+   display: flex;
+   align-items: center;
+   list-style: none;   
+}
+.primary-color{
+color:#FD6E0A;
+}
+.title-of-marry{
+   font-weight: 800; 
+   font-size: 45px;
+  }
+  ul li{
+   margin-right: 50px;
+}
+li a{
+   text-decoration: none;
+   color: #474747;
+}
+.btn-primary{
+ border-radius: 5px;
+ background-color: #FD6E0A;  
+ color: white;
+ border: none;
+ font-weight: 700;
+ font-size: 20px;
+ padding:15px 30px ;
+}
+.Mary-hardy{
+   display: flex;
+   align-items: center;
+   padding: 40px 30px 0px 200px;
+   }
+   .semi{
+    font-size: 45px; 
+    font-weight: 600;  
+    padding-bottom: 0px;
+    color: #181818;
+   }
+   .bold{
+       margin: 5px 0px 20px 0px;
+       padding-top: 0px;
+       font-size:85px ;
+       font-weight: 700;
+   }
+   .tag{
+    font-size: 18px; 
+    font-weight: 400; 
+    color: #757575; 
+   }
+   
+.khusi1{
+background-color: #FD6E0A;
+color: white;
+border: none;
+padding: 15px 30px;
+border-radius:5px ;
+margin-top: 30px;
+}
+.khusi3{
+   margin-left: 13px;
+}
+.khusi2{
+color: #FD6E0A;
+border: 1px solid #FD6E0A;
+padding: 13px 24px;
+background-color: white;
+margin-left: 30px;
+font-weight: 700;
+font-size: 20px;
+border-radius: 5px;
+}
+.khusi4{
+   margin-left: 10px;
+}
+/*About section*/
+.main-first-section{
+   background-color: #FFF8F3;
+   padding: 130px 130px;
+   margin: 130px 230px;
+   text-align: center;
+   /* height:550px;
+      width:1140px;
+      margin:auto ;*/
+}
+.mainn{
+   padding-bottom: 30px;
+   font-weight: 700;
+   font-size: 35px;
+}
+.about-me-section{
+   padding-top: 30px;
+   display: flex;
+   justify-content: space-between;
+}
+.about{
+ /*  margin-right: 50px;*/
+}
+.choto{
+   font-size: 18px;
+   font-weight: 400;
+   color: #a8a6a4;
+   /* margin-right: 30px; */
+}
+.bbold{
+   font-weight: 700;
+   font-size: 20px; 
+}/*What I Do*/
+.what-section{
+margin: 0px 200px 130px 200px;
+margin-right: auto;
+}
+.vitore-ante-chay{
+    text-align: center;
+    margin: 0px 100px 50px 100px;
+    margin-right: 50px;
+
+}
+.what-i-do{
+display: flex;
+}
+.JavaScript{
+   display: flex;
+   margin-top: 50px;
+   padding-bottom: 0px;
+}
+.khusi{
+    /* border:2px solid green;*/
+     border-radius: 5px;
+     background-color: #ffffff;
+     padding: 30px;
+     margin-right: 24px;
+     box-shadow:0px 6px 50px 0px rgba(0, 0, 0, .06)
